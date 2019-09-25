@@ -1,4 +1,4 @@
-# allbypythonself
+# All-by-Pythonself (ABP)
 
 Practice basic offensitve security techniques all by Pythonself.
 
