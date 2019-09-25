@@ -23,8 +23,8 @@ python arpspoof.py
 
 ## Authors (Alphabetical)
 
-* **Hae Young Lee** - Cheongju University - [haelee](https://github.com/haelee)
+* **Hae Young Lee** - Assistant Professor at [Cheongju University](https://www.cju.ac.kr) - [haelee](https://github.com/haelee)
 
 ## License
 
-The project is licensed under the MIT License; see the [LICENSE.md](LICENSE.md) file for details.
+The project is licensed under the MIT License.
