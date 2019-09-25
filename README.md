@@ -13,7 +13,7 @@ Practice basic offensitve security techniques all by Pythonself.
 
 ## Assisgnments
 
-## Setup
+## Setups
 
 ## Example
 
