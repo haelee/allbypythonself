@@ -27,7 +27,7 @@ python arpspoof.py
 * **Seongyong Choi** - President of CHUA - [yyyy7246](https://github.com/yyyy7246)
 * **Tae Hyeng Kim** - Vice President of CUHA - [kingjaewon2000](https://github.com/kingjaewon2000)
 * **Hae Young Lee** - Assistant Professor at [Cheongju University](https://www.cju.ac.kr) - [haelee](https://github.com/haelee)
-* **Yoonsu Lim** - Member of CIFRAR) - [Limyoonsu](https://github.com/Limyoonsu)
+* **Yoonsu Lim** - Member of CIFRAR - [Limyoonsu](https://github.com/Limyoonsu)
 * **Do Kyu Park** - Member of CUHA - [GGHF1](https://github.com/GGHF1)
 
 ## License
