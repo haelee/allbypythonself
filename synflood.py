@@ -1,7 +1,7 @@
-# all-by-pythonself
-# by whichmeans
-# at Cheongju University
+# All-by-Pythonself
 # Snippet for TCP SYN flooding
+# by Hae Young Lee
+# at Cheongju University
 
 from scapy . all import *
 
