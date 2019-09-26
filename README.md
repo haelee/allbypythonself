@@ -24,10 +24,11 @@ python arpspoof.py
 
 ## Contributors (Alphabetical)
 
-* **Seongyong Choi** - Freshman at [Cheongju University](https://www.cju.ac.kr) - [yyyy7246](https://github.com/yyyy7246)
-* **TH Kim** - Freshman at [Cheongju University](https://www.cju.ac.kr) - [kingjaewon2000](https://github.com/kingjaewon2000)
+* **Seongyong Choi** - President of CHUA, Freshman at [Cheongju University](https://www.cju.ac.kr) - [yyyy7246](https://github.com/yyyy7246)
+* **Tae Hyeng Kim** - Vice President of CUHA, Freshman at [Cheongju University](https://www.cju.ac.kr) - [kingjaewon2000](https://github.com/kingjaewon2000)
 * **Hae Young Lee** - Assistant Professor at [Cheongju University](https://www.cju.ac.kr) - [haelee](https://github.com/haelee)
-* **Do Kyu Park** - Freshman at [Cheongju University](https://www.cju.ac.kr) - [GGHF1](https://github.com/GGHF1)
+* **Yoonsu Lim** - Member of CIFRAR, Sophomore at [Cheongju University](https://www.cju.ac.kr) - [Limyoonsu](https://github.com/Limyoonsu)
+* **Do Kyu Park** - Member of CUHA, Freshman at [Cheongju University](https://www.cju.ac.kr) - [GGHF1](https://github.com/GGHF1)
 
 ## License
 
