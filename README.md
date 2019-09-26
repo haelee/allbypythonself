@@ -7,6 +7,7 @@ Practice basic offensitve security techniques all by Pythonself.
 * arpspoof.py - ARP cache poisoning (APR spoofing)
 * crack.py - Password cracking (/etc/shadow)
 * dictionary.py - Dictionary attacks (Telnet)
+* icmpredirect.py - ICMP redirect attacks
 * portscan.py - SYN scanning
 * synflood.py - SYN flooding
 * tcpreset.py - TCP reset attacks
