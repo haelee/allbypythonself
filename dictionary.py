@@ -1,7 +1,7 @@
-# all-by-pythonself
-# by whichmeans
-# at Cheongju University
+# All-by-Pythonself
 # Snippet for dictionary attacks
+# by Hae Young Lee
+# at Cheongju University
 
 import os
 import telnetlib
