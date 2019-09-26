@@ -1,7 +1,7 @@
-# all-by-pythonself
-# by whichmeans
-# at Cheongju University
+# All-by-Pythonself
 # Snippet for password cracking
+# by Hae Young Lee
+# at Cheongju University
 
 import crypt
 
