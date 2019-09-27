@@ -9,12 +9,19 @@ Practice basic offensive security techniques all by Pythonself.
 * dictionary.py - Dictionary attacks
 * icmpredirect.py - ICMP redirect attacks
 * portscan.py - SYN scanning
+* smurf.py - The Smurf attacks
 * synflood.py - SYN flooding
 * tcpreset.py - TCP reset attacks
 
 ## Assisgnments (for homework)
+* arpspoof.py
+* crack.py
+* portscan.py
+* synflood.py
 
-## Setups (to make the target vulnerable)
+## Setups (to make the system vulnerable)
+* smurf.setup.py
+* synflood.setup.py
 
 ## Example
 
