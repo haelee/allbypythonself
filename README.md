@@ -1,20 +1,20 @@
 # All-by-Pythonself (ABP)
 
-Practice basic offensitve security techniques all by Pythonself.
+Practice basic offensive security techniques all by Pythonself.
 
-## Snippets
+## Snippets (for in-class exercises)
 
-* arpspoof.py - ARP cache poisoning (APR spoofing)
-* crack.py - Password cracking (/etc/shadow)
-* dictionary.py - Dictionary attacks (Telnet)
+* arpspoof.py - ARP cache poisoning
+* crack.py - Password cracking
+* dictionary.py - Dictionary attacks
 * icmpredirect.py - ICMP redirect attacks
 * portscan.py - SYN scanning
 * synflood.py - SYN flooding
 * tcpreset.py - TCP reset attacks
 
-## Assisgnments
+## Assisgnments (for homework)
 
-## Setups
+## Setups (to make the target vulnerable)
 
 ## Example
 
@@ -24,7 +24,7 @@ python arpspoof.py
 
 ## Contributors (Alphabetical)
 
-* **Seongyong Choi** - President of CHUA - [yyyy7246](https://github.com/yyyy7246)
+* **Seongyong Choi** - President of CUHA - [yyyy7246](https://github.com/yyyy7246)
 * **Tae Hyeng Kim** - Vice President of CUHA - [kingjaewon2000](https://github.com/kingjaewon2000)
 * **Hae Young Lee** - Assistant Professor at [Cheongju University](https://www.cju.ac.kr) - [haelee](https://github.com/haelee)
 * **Yoonsu Lim** - Member of CIFRAR - [Limyoonsu](https://github.com/Limyoonsu)
