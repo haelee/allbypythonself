@@ -1,14 +1,8 @@
-# All-by-Pythonself
-# Snippet for TCP SYN flooding
-# by Hae Young Lee
-# at Cheongju University
-
 #python3.x synflood.py <Target ip> <Target port> <Number of threads> [option...]
 #-------------------Option--------------------
 #    -sip	   : Ip를 지정할 수 있습니다.
 #    -sport    : Port를 지정할 수 있습니다.
 #-----------------------------------------------
-
 
 import sys
 from threading import Thread
