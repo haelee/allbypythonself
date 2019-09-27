@@ -20,8 +20,8 @@ Practice basic offensive security techniques all by Pythonself.
 * synflood.py
 
 ## Setups (to make the system vulnerable)
-* smurf.setup.py
-* synflood.setup.py
+* smurf.setup.py - To accept ICMP echo broadcasts
+* synflood.setup.py - To disable SYN cookies
 
 ## Example
 
