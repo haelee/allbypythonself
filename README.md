@@ -16,6 +16,7 @@ Practice basic offensive security techniques all by Pythonself.
 ## Assisgnments (for homework)
 * arpspoof.py
 * crack.py
+* dictionary.py
 * portscan.py
 * synflood.py
 
