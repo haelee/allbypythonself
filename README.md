@@ -1,6 +1,6 @@
 # All-by-Pythonself (ABP)
 
-Practice basic offensive security techniques all by Pythonself.
+Practice basic offensive security techniques all-by-Pythonself.
 
 ## Snippets (for in-class exercises)
 
