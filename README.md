@@ -30,13 +30,15 @@ Practice basic offensive security techniques all-by-Pythonself.
 python arpspoof.py
 ```
 
-## Contributors (Alphabetical)
+## Contributors (alphabetical)
 
-* **Seongyong Choi** - President of CUHA - [yyyy7246](https://github.com/yyyy7246)
-* **Tae Hyeng Kim** - Vice President of CUHA - [kingjaewon2000](https://github.com/kingjaewon2000)
-* **Hae Young Lee** - Assistant Professor at [Cheongju University](https://www.cju.ac.kr) - [haelee](https://github.com/haelee)
-* **Yoonsu Lim** - Member of CIFRAR - [Limyoonsu](https://github.com/Limyoonsu)
-* **Do Kyu Park** - Member of CUHA - [GGHF1](https://github.com/GGHF1)
+All contributors are with [Cheongju University](https://www.cju.ac.kr).
+
+* **Seongyong Choi** - President of CUHA
+* **Tae Hyeng Kim** - Vice President of CUHA
+* **Hae Young Lee** - Adviser of CIFRAR and CUHA
+* **Yoonsu Lim** - Member of CIFRAR
+* **Do Kyu Park** - Member of CUHA
 
 ## License
 
