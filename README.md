@@ -4,7 +4,7 @@ Practice basic offensive security techniques all-by-Pythonself.
 
 ## Snippets (for in-class exercises)
 
-* arpspoof.py - ARP cache poisoning
+* arpspoof.py - ARP spoofing
 * crack.py - Password cracking
 * dictionary.py - Dictionary attacks
 * icmpredirect.py - ICMP redirect attacks
