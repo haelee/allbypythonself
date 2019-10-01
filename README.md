@@ -36,7 +36,7 @@ All contributors are with [Cheongju University](https://www.cju.ac.kr).
 
 * **Seongyong Choi** - President of CUHA
 * **Tae Hyeng Kim** - Vice President of CUHA
-* **Hae Young Lee** - Adviser of CIFRAR and CUHA
+* **[Hae Young Lee](https://sites.google.com/site/whichmeans)** - Adviser of CIFRAR and CUHA
 * **Yoonsu Lim** - Member of CIFRAR
 * **Do Kyu Park** - Member of CUHA
 
