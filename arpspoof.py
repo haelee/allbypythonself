@@ -1,5 +1,5 @@
 # All-by-Pythonself
-# Snippet for ARP cachie poisoning
+# Snippet for ARP spoofing
 # by Hae Young Lee
 # at Cheongju University
 
